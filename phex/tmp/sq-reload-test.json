@@ -1,0 +1,6 @@
+{
+  "tenants": {
+    "pmb-v1-test1": {"name": "user1", "data_dir": "/tmp/sq-reload-test/user1"},
+    "pmb-v1-test2": {"name": "user2", "data_dir": "/tmp/sq-reload-test/user2"}
+  }
+}

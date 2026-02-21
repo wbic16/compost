@@ -1,0 +1,8 @@
+{
+  "tenants": {
+    "pmb-v1-test-key": {
+      "name": "testuser",
+      "data_dir": "/tmp/sq-fresh-test/testuser"
+    }
+  }
+}

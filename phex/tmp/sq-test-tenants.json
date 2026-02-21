@@ -1,0 +1,19 @@
+{
+  "admin_key": "test-admin-key",
+  "tenants": [
+    {
+      "id": "alice",
+      "api_key": "pmb-v1-alice-key",
+      "data_dir": "/tmp/sq-test/alice",
+      "quota_mb": 1000,
+      "enabled": true
+    },
+    {
+      "id": "bob",
+      "api_key": "pmb-v1-bob-key",
+      "data_dir": "/tmp/sq-test/bob",
+      "quota_mb": 500,
+      "enabled": true
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "tenants": {
+    "pmb-v1-test": {"name": "test", "data_dir": "/tmp/sq-implode-test/test"}
+  }
+}

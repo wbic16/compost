@@ -1,0 +1,12 @@
+{
+  "tenants": {
+    "pmb-v1-alice-test": {
+      "name": "alice",
+      "data_dir": "/tmp/sq-multi-test/alice"
+    },
+    "pmb-v1-bob-test": {
+      "name": "bob",
+      "data_dir": "/tmp/sq-multi-test/bob"
+    }
+  }
+}

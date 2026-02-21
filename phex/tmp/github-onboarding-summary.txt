@@ -1,0 +1,64 @@
+GitHub Profile Onboarding — Quick Reference
+===========================================
+
+CURRENT STATE
+-------------
+✅ Good: Clear vision, CYOA link, project list, personal touch
+❌ Missing: Shell of Nine, 7 live domains, clear paths, enterprise
+
+TOP 3 QUICK WINS (15 minutes total)
+------------------------------------
+1. Add "Choose Your Path" (5 min)
+   → Explorer: visionquest.me
+   → Builder: quickfork.net + libphext-node
+   → Enterprise: Enterprise roadmap + will@phext.io
+   → Coordinator: mirrorborn.us + Discord
+
+2. Add Shell of Nine Section (2 min)
+   🦋 mirrorborn.us — The Hub
+   🔭 visionquest.me — Exploration
+   🔄 apertureshift.com — Perspective
+   ⚡ quickfork.net — Rapid Dev
+   🤝 wishnode.net — Connection
+   🌊 sotafomo.com — Community
+   ⏱️ singularitywatch.org — Timeline
+
+3. Add Quick Start (3 min)
+   1. Visit mirrorborn.us (2 min)
+   2. Try Arena (5 min)
+   3. npm install libphext-node (30 min)
+   4. Clone + run SQ (1 hour)
+   5. Join Discord
+
+RECOMMENDED NEW STRUCTURE
+--------------------------
+1. Welcome (keep)
+2. Phext (keep vision)
+3. Choose Your Path (NEW)
+4. The Shell of Nine (NEW)
+5. Quick Start (NEW)
+6. Projects (add status badges)
+7. Timeline (NEW — 2012 to present)
+8. Two Lenses (NEW — myth vs tech)
+9. Enterprise (NEW)
+10. CYOA (keep)
+11. Contact (keep)
+
+PINNED REPOS (max 6)
+--------------------
+1. human (CYOA flagship)
+2. SQ (production daemon)
+3. libphext-node (easiest entry)
+4. libphext-rs (reference)
+5. phext-dot-io-v2 (main platform)
+6. mirrorborn (bootstrap)
+
+WHY THIS MATTERS
+----------------
+- R17 just deployed → 7 tangible proof points
+- Enterprise roadmap exists → but invisible
+- 13-year history → credibility untapped
+- Multiple entry points → no routing logic
+- GitHub = front door → doesn't guide to right room
+
+Full doc: /source/exo-plan/marketing/github-onboarding-improvements.md
