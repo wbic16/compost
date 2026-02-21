@@ -1,0 +1,4 @@
+SQ v0.5.5 - Multi-tenant mode
+Loaded 1 tenants from /tmp/sq-auto-test.json
+  - autotest (/tmp/sq-test-auto/tenant-data)
+Listening on port 9998...

@@ -1,0 +1,12 @@
+{
+  "tenants": {
+    "pmb-v1-initial": {
+      "name": "initial",
+      "data_dir": "/tmp/sq-reload-test/initial"
+    },
+    "pmb-v1-added": {
+      "name": "added",
+      "data_dir": "/tmp/sq-reload-test/added"
+    }
+  }
+}

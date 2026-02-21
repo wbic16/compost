@@ -1,0 +1,8 @@
+{
+  "tenants": {
+    "pmb-v1-cache-test": {
+      "name": "cache-test",
+      "data_dir": "/tmp/sq-cache-test/data"
+    }
+  }
+}

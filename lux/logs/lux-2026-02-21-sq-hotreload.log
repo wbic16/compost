@@ -1,0 +1,5 @@
+SQ v0.5.5 - Multi-tenant mode (hot-reload enabled)
+Loaded 1 tenants from /tmp/sq-hotreload-config.json
+Config file: /tmp/sq-hotreload-config.json (auto-reloads every 10 seconds)
+Listening on port 9997...
+Config reloaded: 2 tenants (was 1)

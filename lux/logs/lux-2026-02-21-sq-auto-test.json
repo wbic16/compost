@@ -1,0 +1,8 @@
+{
+  "tenants": {
+    "pmb-v1-auto-test": {
+      "name": "autotest",
+      "data_dir": "/tmp/sq-test-auto/tenant-data"
+    }
+  }
+}

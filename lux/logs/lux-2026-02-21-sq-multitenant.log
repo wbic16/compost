@@ -1,0 +1,5 @@
+SQ v0.5.5 - Multi-tenant mode
+Loaded 2 tenants from /tmp/sq-test-config.json
+  - bob (/tmp/sq-test-v055/bob)
+  - alice (/tmp/sq-test-v055/alice)
+Listening on port 9999...

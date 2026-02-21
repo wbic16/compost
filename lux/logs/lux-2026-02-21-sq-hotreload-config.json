@@ -1,0 +1,12 @@
+{
+  "tenants": {
+    "pmb-v1-tenant-1": {
+      "name": "tenant-1",
+      "data_dir": "/tmp/sq-hotreload/tenant-1"
+    },
+    "pmb-v1-tenant-2": {
+      "name": "tenant-2",
+      "data_dir": "/tmp/sq-hotreload/tenant-2"
+    }
+  }
+}

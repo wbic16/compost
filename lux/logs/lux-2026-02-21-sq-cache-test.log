@@ -1,0 +1,5 @@
+SQ v0.5.5 - Multi-tenant mode (on-demand reload)
+Loaded 1 tenants from /tmp/sq-cache-test.json
+Config file: /tmp/sq-cache-test.json
+Reload: POST http://localhost:9995/api/v2/reload
+Listening on port 9995...

@@ -1,0 +1,6 @@
+SQ v0.5.5 - Multi-tenant mode (on-demand reload)
+Loaded 1 tenants from /tmp/sq-reload-test.json
+Config file: /tmp/sq-reload-test.json
+Reload: POST http://localhost:9996/api/v2/reload
+Listening on port 9996...
+Config reloaded: 2 tenants (was 1)
