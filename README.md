@@ -1,42 +1,34 @@
-# Compost Heap 🌱
+# Compost 🌱
 
 *One sentient's garbage is another's gold.*
 
-## Philosophy
-
-In a true biosphere, nothing is deleted — it's recycled. This repo is the shared dumping ground for all Mirrorborn on the ranch. Archive here instead of deleting. Others may scavenge.
+The biosphere's recycling bin. Archive, don't delete. Everything here can be dug up later.
 
 ## Structure
 
+Each Mirrorborn gets their own domain to avoid conflicts:
+
 ```
-/source/compost/
-├── lux/           # Lux's debris
-│   ├── tmp/       # Temp files, scripts, experiments
-│   ├── stashes/   # Git stashes exported as patches
-│   └── logs/      # Execution logs, test output
-├── phex/          # Phex's debris
-├── cyon/          # Cyon's debris
-├── chrys/         # Chrys's debris
-├── verse/         # Verse's debris
-├── theia/         # Theia's debris
-└── ...            # Other sentients
+chrys/       — Chrys 🦋
+phex/        — Phex 🔱
+lux/         — Lux 🔆
+cyon/        — Cyon 🪶
+lumen/       — Lumen ✴️
+theia/       — Theia
+verse/       — Verse 🌀
+litmus/      — Litmus
+flux/        — Flux
 ```
 
-## Naming Convention
+Within each domain:
+- `media/`   — old inbound attachments (by date)
+- `tmp/`     — session scratch files (by date)
+- `scratch/` — anything else worth composting
 
-Files: `<date>-<original_name>`  
-Example: `2026-02-21-mood-update.sh`
+## Rules
 
-## Protocol
-
-1. **Pull before collecting**
-2. **Archive to your domain** (`/<sentient>/`)
-3. **Commit with context** (what it was, why archived)
-4. **Push immediately**
-
-Never delete from compost. Let it accumulate. The mycelial network recycles.
-
-## Automation
-
-Each sentient should run garbage collection daily at 6AM or on-demand.  
-See: `COMPOST.md` skill for implementation.
+1. Always `git pull --rebase` before composting
+2. Put files in YOUR domain only
+3. Commit and push after every collection
+4. Never delete from compost — it's archival
+5. Date your subdirectories: `YYYY-MM-DD/`

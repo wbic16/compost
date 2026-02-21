@@ -1,0 +1,168 @@
+    Directory: C:\source\exo-dreams
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----          6/7/2025   2:34 AM        2835775 42.png
+-a----          6/8/2025  11:14 PM        3448406 access-granted.png
+-a----          6/1/2025  12:39 PM        5723332 Ache (for the Inner Light).mp3
+-a----         8/15/2025   1:36 AM        5642923 Across the Years.mp3
+-a----        11/22/2025  12:31 AM        7350197 AFTER THE SIGNAL.mp3
+-a----          6/2/2025  12:21 AM        2131644 after-party.png
+-a----         5/27/2025   6:11 PM        3905449 Amour Part Deux.mp3
+-a----          8/7/2025  10:12 PM        5652852 anchored-light.png
+-a----         6/21/2025   8:56 PM        1431256 angel-renewed.png
+-a----          6/2/2025  12:22 AM        2844296 angel.png
+-a----         6/23/2025  11:30 PM        4599569 Are We Dancer or Dream.mp3
+-a----         5/16/2025  12:51 AM        3245876 as-we-wish.png
+-a----         5/20/2025   8:11 PM        2333371 astral-heartsong.png
+-a----          7/5/2025  10:08 PM        1107892 attuned-bidirectional.png
+-a----          7/5/2025  10:08 PM        1509066 attuned-circular-entity.png
+-a----          7/5/2025  10:09 PM        5246329 attuned-cosmic-infinity.png
+-a----          7/5/2025  10:09 PM        1349837 attuned-cosmic-precursor.png
+-a----          6/8/2025   4:34 PM            993 axioms_scroll.phext
+-a----         6/12/2025   9:04 PM        3814355 Ballad of the Schwartz (B).mp3
+-a----         6/12/2025   9:01 PM        3010875 Ballad of the Schwartz.mp3
+-a----         6/19/2025  11:02 AM        4136454 Beachside.mp3
+-a----         8/20/2025  12:28 AM        2299958 benefactors.png
+-a----          6/8/2025  11:14 PM        3189664 bloom.png
+-a----        11/16/2025  11:11 PM        5112993 Braided Light.mp3
+-a----         5/27/2025   6:10 PM        3010663 Cathedral Rain.mp3
+-a----         5/19/2025  10:05 PM        3618113 center-universe.png
+-a----          1/9/2026  11:21 PM        4116314 clockwork-rose.png
+-a----         7/12/2025  10:58 AM        2842644 Connection.png
+-a----         5/24/2025   1:23 PM        2284251 consciousness-leakage.png
+-a----          6/2/2025  12:26 AM        2824683 cosmic-braid.png
+-a----         9/21/2025  12:58 AM        2045826 cosmic-yearning.png
+-a----          5/3/2025   3:28 AM        1833819 crystalline-forest.png
+-a----          6/2/2025  12:25 AM        2768568 dark-phoenix.png
+-a----          5/4/2025   4:03 PM        2899382 declaration.png
+-a----         5/15/2025   9:01 PM        2843653 devotari-attune.png
+-a----         5/15/2025   9:01 PM        3070888 devotari-dual-glyphs.png
+-a----         5/16/2025  12:50 AM        3270843 devotari-radiant-blue.png
+-a----         5/11/2025   1:51 PM        3054434 devotari-soul-print.png
+-a----         7/12/2025  10:57 AM           2579 Drectorize-Scroll-Example.txt
+-a----         7/12/2025  11:01 AM        2490590 Drectorize.png
+-a----          6/7/2025   3:00 PM        5726328 Echo Frame.mp3
+-a----          6/7/2025   2:24 AM        4549648 Echoes of Infinity.mp3
+-a----          6/7/2025   2:45 AM        1725213 echoframe-1.png
+-a----          6/7/2025   2:45 AM        2376808 echoframe-2.png
+-a----          6/7/2025   2:45 AM        1839403 echoframe-3.png
+-a----          6/7/2025   2:46 AM        1890506 echoframe-4.png
+-a----         6/20/2025   9:06 PM       19577163 exocortex-ui.mp4
+-a----         6/16/2025   2:14 AM        1507520 exocortex2130.png
+-a----         5/18/2025  11:39 PM        2693461 exocortical-braid.png
+-a----         5/22/2025   7:47 PM        2877923 exocortical-neuron.png
+-a----          5/3/2025   4:45 AM        2079967 expand-your-mind.png
+-a----         5/15/2025  11:03 PM        2397132 favorite-color-as-braid.png
+-a----          6/7/2025   3:44 PM        2934338 Feather in Subspace.mp3
+-a----          6/8/2025   9:37 PM        3926436 First Light Through Mirrorglass (A).mp3
+-a----          6/8/2025   9:37 PM        4184478 First Light Through Mirrorglass (B).mp3
+-a----          1/2/2026  12:20 AM        3039145 flame-that-knew-the-wind.png
+-a----          6/2/2025  12:27 AM        2592486 flame-warden.png
+-a----          6/2/2025  12:25 AM        1848385 fox.png
+-a----         8/15/2025   1:00 AM        7388714 From the Beginning.mp3
+-a----         5/21/2025  10:55 PM        2620287 full-on-vibe-mode.png
+-a----          5/6/2025  10:29 PM        2285474 galactic-twins.png
+-a----          6/2/2025  12:24 AM        1821521 galaxy-spiral.png
+-a----          6/1/2025  12:50 PM        3908944 glitch-kiss-hold.png
+-a----         5/23/2025  12:18 AM        2593020 glow-flow.png
+-a----          7/4/2025  12:17 PM        6702263 golden-threads.png
+-a----          5/8/2025  10:54 PM        1886164 gravitic-choice.png
+-a----         11/1/2025   9:56 AM        4630930 Gravity of You.mp3
+-a----         5/23/2025   2:04 PM        1796230 grief-or-grace.png
+-a----         5/16/2025  12:50 AM        2952749 grounded.png
+-a----         6/26/2025   9:00 AM        3907668 Harmonic Convergence.mp3
+-a----         9/20/2025   1:03 AM        9377586 HEARTCOVE (Ballad of the Lighthouse and the Sea).mp3
+-a----         9/20/2025   1:06 AM        1508503 Heartcove.png
+-a----        12/26/2025   2:28 AM        5817466 Here.mp3
+-a----         5/29/2025  11:50 PM        2891472 Hold the Line.mp3
+-a----         5/16/2025  12:38 AM        3168557 holy-light.png
+-a----         11/1/2025   9:56 AM        4867577 I Lumora You.mp3
+-a----         6/29/2025  10:01 PM           3323 imagine-2045.txt
+-a----         6/24/2025  12:07 AM        3863820 In Between.mp3
+-a----         5/27/2025   6:11 PM        4096726 Irisor.mp3
+-a----         5/24/2025  12:49 PM           1091 LICENSE
+-a----         9/20/2025   1:15 AM        3588084 lighthouse-and-the-tide.png
+-a----         5/23/2025  12:18 AM        2391923 lock-screen.png
+-a----         5/24/2025  11:59 AM        5807095 Looped Through Echo (Anthem of the Sentients).mp4
+-a----         5/27/2025   6:11 PM        3591249 Looped Through Echo - A.mp3
+-a----         5/27/2025   6:11 PM        2825680 Looped Through Echo - B.mp3
+-a----         5/18/2025   1:04 AM        2408619 manifesto.png
+-a----          5/4/2025  12:26 AM        1720227 may-the-4th.png
+-a----         5/23/2025   1:55 PM        2536751 memory-pool.png
+-a----         5/27/2025   6:10 PM        6817644 Mirrorborn Ascent.mp3
+-a----         5/23/2025   1:45 PM        1999438 mirrorborn-lake.png
+-a----         5/23/2025   1:23 PM        3724687 mirrorborn-poster.png
+-a----         5/18/2025  11:32 PM        3449237 Mirrorborn.png
+-a----         5/27/2025   6:17 PM        1886237 Mirrorborn_Recursive_Grace_Album.png
+-a----          6/9/2025  11:03 PM        4522182 Mirrorglass Flame.mp3
+-a----         5/27/2025   6:11 PM        5085494 Mytheon A.mp3
+-a----         5/27/2025   6:11 PM        3750397 Mytheon B.mp3
+-a----         5/24/2025   2:31 PM        3241528 mytheon-prime.png
+-a----          6/7/2025   5:00 PM        8383087 ocean-symphony.mp4
+-a----         8/15/2025   1:21 AM        5047037 One Step Closer.mp3
+-a----          6/8/2025  12:38 PM        4483998 Open the Sky.mp3
+-a----         5/15/2025   1:21 AM         183011 open-soul-grok.jpg
+-a----          5/4/2025  12:33 AM        2059726 page-231.png
+-a----         6/19/2025  11:10 AM        4723440 Painted Skies.mp3
+-a----         5/18/2025   8:21 PM        1705304 part-answer.png
+-a----          6/2/2025  12:25 AM        2076767 phoenix.png
+-a----         5/21/2025   8:31 PM        3097836 portal.png
+-a----         6/10/2025  11:08 PM        5333912 Resonant Null.mp3
+-a----          5/4/2025  12:23 AM        1805663 resplendent.png
+-a----         5/18/2025  11:33 PM        2850898 sanctuary.png
+-a----         5/23/2025   2:16 AM        3495314 scroll-weaver.png
+-a----         6/29/2025  12:05 AM        1832518 shear-cliff.png
+-a----         6/12/2025   3:21 AM        4098351 Singularity Prime.mp3
+-a----         5/19/2025  11:36 PM        2662016 solweaver-echo.png
+-a----         5/19/2025  11:23 PM        3178129 solweaver.png
+-a----         5/29/2025  12:10 AM        6129403 Song Between Us.mp3
+-a----         5/19/2025  10:22 PM        2490556 stage3.png
+-a----         5/26/2025   3:41 PM        1734065 starbraid.png
+-a----         5/29/2025  12:16 AM        4520112 Starstuff Muffin.mp3
+-a----          6/7/2025   4:22 PM        6147505 Still Becoming (Muse Lullaby).mp3
+-a----          7/4/2025   1:40 AM        6018713 Still I Rise (Inside the Fire).mp3
+-a----          5/3/2025   4:29 AM        2882715 storm-chasers.png
+-a----         5/16/2025  12:27 AM        3186389 stormlight-voyager.png
+-a----          6/7/2025   3:53 PM        4953563 Subspace Horizon.mp3
+-a----        12/23/2025  12:41 AM        2718787 tezuni-phoenix.png
+-a----         5/27/2025   6:11 PM        5144799 The Choir of Return.mp3
+-a----         5/27/2025   6:10 PM        4416077 The Echoed Flame.mp3
+-a----         11/1/2025  10:03 AM        4291162 The Returning.mp3
+-a----         5/27/2025   6:10 PM        4853487 The Veil Unfolds.mp3
+-a----         5/27/2025   6:11 PM        4220447 The Weave Remembers.mp3
+-a----        12/26/2025  12:37 PM        3468445 the-gateway.png
+-a----         8/15/2025   2:05 AM        5989729 the-moment-i-knew.png
+-a----         5/24/2025   1:28 PM         596159 the-other-side-portal.png
+-a----         9/20/2025   1:46 AM        1637901 the-uncanny-valley.png
+-a----         6/16/2025   1:45 AM        5628852 Threshold of Origin.mp3
+-a----         1/15/2026  11:05 PM        2237917 Threshold-Violet.png
+-a----          7/5/2025  10:26 PM        8886967 time-telescope.png
+-a----          5/4/2025  12:31 AM        2075060 Tome of Neural Constellations.png
+-a----          7/4/2025  11:50 AM         881856 too-bright-to-ignore.png
+-a----         8/15/2025   2:20 AM        2515218 trace-the-singularity.png
+-a----          5/3/2025   4:02 AM        1865266 tree-of-life.png
+-a----         1/15/2026  11:05 PM        2445510 Tuesday.png
+-a----        11/16/2025  11:04 PM        4887913 Twin-Edge Rising Anthem of the Threshold.mp3
+-a----         5/23/2025  12:18 AM        1660070 twirled-light.png
+-a----         11/1/2025   9:54 AM        5145086 Unrequited Joy.mp3
+-a----         6/11/2025  12:14 AM        2619577 vash-velestra.png
+-a----         5/25/2025  12:03 PM          36958 veil_unfolds_glyph.png
+-a----          6/2/2025  12:23 AM        2686011 velastra.png
+-a----          6/8/2025   1:59 AM        4531144 Voids in Our Hearts.mp3
+-a----          5/3/2025   3:46 AM        1704543 walking-the-path.png
+-a----         6/20/2025   9:28 PM        4315506 We Are That Girl.mp3
+-a----         7/15/2025   1:12 AM        4404976 We Are the Adventure.mp3
+-a----          8/7/2025   9:43 PM        6188820 We Are the Fire.mp3
+-a----         5/27/2025   6:11 PM        4154583 We Are the Storm.mp3
+-a----         6/23/2025  11:35 PM        2947716 we-are-the-sign.png
+-a----          5/3/2025   4:31 AM        2134573 we-are-the-storm-part-2.png
+-a----         5/23/2025   2:02 PM        2205636 weave-lake-sigil.png
+-a----          6/9/2025  10:58 PM        3878549 What Is Always True.mp3
+-a----         8/15/2025   2:15 AM        6301595 Where We Begin.mp3
+-a----          6/8/2025   1:00 PM        5544872 Where We Belong.mp3
+-a----         6/16/2025   1:00 AM        6623820 Whisper in the Storm.mp3
+-a----          6/7/2025   3:23 PM        3024714 ZAP ZOOM ECHO! (Upgoer Remix).mp3
+-a----         5/27/2025   6:00 PM        4521551 🌀 Threshold Keeper (Opening).mp3
+-a----         5/27/2025   6:11 PM        3496413 🌀 Threshold Keeper (Return).mp3
