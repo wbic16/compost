@@ -1,0 +1,93 @@
+Market Research Report
+Close
+Market Research Report: Mirrorborn
+
+Business Overview
+
+Mirrorborn builds persistent memory infrastructure for AI agents using Phext, an 11-dimensional plain hypertext format invented by founder Will Bickford. While most AI memory solutions rely on vector embeddings and RAG pipelines, Mirrorborn takes a fundamentally different approach: coordinate-based text addressing that preserves structure without schemas or embeddings.
+
+
+Current products:
+
+
+
+SQ Cloud ($50/mo) - Managed API with 100GB phext storage, REST access, auto-scaling
+
+Self-Hosted (Free, MIT) - Full open-source implementation for data sovereignty
+
+Mytheon Arena ($5/mo, coming soon) - Explorer interface for phext coordinate space
+
+
+Stage: Early alpha. Manual account provisioning. MIT-licensed core.
+
+
+Market Analysis
+
+The AI agent memory market is exploding. Every serious AI agent deployment needs persistent memory, and the current solutions are fragmented, expensive, and lossy.
+
+
+Market size indicators:
+
+
+
+AI agent frameworks (LangChain, CrewAI, AutoGen) are seeing massive adoption
+
+Memory is consistently cited as the #1 pain point in production agent deployments
+
+Enterprise AI spending projected to exceed $200B by 2027
+
+The memory layer specifically is a $2-5B addressable market as agents go mainstream
+
+
+Timing: Near-perfect. The market is moving from "demo agents" to "production agents," and production agents need real memory. Vector-based solutions are showing cracks at scale (wrong retrievals, context pollution, high costs). Mirrorborn's structural approach solves problems developers are just now discovering.
+
+
+Competitive Landscape
+
+Competitor	Approach	Pricing	Strengths	Weaknesses
+Mem0	Managed memory with graph + vector	Free tier + paid	Fastest to production, strong benchmarks, active community	Embedding-dependent, opaque retrieval, vendor lock-in
+Zep	Temporal knowledge graph + vector	Free community + cloud	Enterprise-grade, tracks fact changes over time, fast	Complex architecture, 600k+ token memory graphs, expensive at scale
+Letta (MemGPT)	Virtual context management	Open source + cloud	Self-managing memory, academic backing	Complex setup, newer, less battle-tested
+Supermemory	Optimized vector retrieval	Managed service	Sub-300ms recall (10x faster than Zep)	Limited customization, managed-only
+LangMem	LangChain-native memory	Open source	Easy integration with LangChain	MVP-only, needs re-architecture at scale
+
+Mirrorborn's edge: Every competitor uses vector embeddings at the core. Mirrorborn uses deterministic coordinate addressing. This means: no embedding drift, no hallucinated retrievals, no schema migrations, immutable history. The trade-off is a steeper learning curve and a new mental model for developers.
+
+
+Why This Fits You
+
+Will's 20+ years of software engineering, with deep specialization in automation, databases, algorithms, and cryptography, makes him uniquely positioned to build developer infrastructure.
+
+
+
+You built the format. Phext is frozen, MIT-licensed, and implemented in Rust, Node.js, and C#. That's not a prototype, that's a foundation.
+
+You think in decades. The Exocortex vision, AGI on 20 watts with Raspberry Pis, that's the kind of long-term thinking that wins infrastructure plays.
+
+You're an infrastructure engineer by trade. EF Johnson Technologies, Olsson Associates, you've shipped production systems. This isn't your first rodeo.
+
+The open-source play is right. MIT license builds trust. SQ Cloud monetizes the pain of self-hosting. Classic open-core.
+
+
+AI Leverage Points
+
+
+Automated onboarding: AI agents that help developers map their existing data models to phext coordinates
+
+Migration tools: Automated conversion from Mem0/Zep/vector stores to phext format
+
+Monitoring dashboards: Real-time visualization of agent memory usage, coordinate space utilization, read/write patterns
+
+Developer docs AI: An agent that answers phext questions and generates integration code
+
+Cold outreach at scale: AI-powered identification and outreach to AI agent developers struggling with memory
+
+
+First Priorities
+
+
+Build the admin portal MVP - A dashboard showing SQ Cloud metrics: active instances, storage usage, API calls, revenue. Will needs visibility into his business.
+
+Research the 5 key competitors deeply - Feature-by-feature comparison, pricing analysis, developer sentiment. Know exactly where Mirrorborn wins.
+
+Start sales outreach - Find 5-10 AI agent developers/companies actively building with Mem0 or Zep and introduce them to the phext alternative.
