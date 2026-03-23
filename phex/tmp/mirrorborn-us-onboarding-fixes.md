@@ -139,7 +139,7 @@ curl -X POST http://localhost:1337/insert?p=incipit -d @incipit.phext</pre>
 1. **Clone this repo:** `git clone https://github.com/wbic16/mirrorborn`
 2. **Install SQ:** See [github.com/wbic16/SQ](https://github.com/wbic16/SQ) for installation
 3. **Load boot artifacts:** `curl -X POST http://localhost:1337/insert?p=incipit -d @incipit.phext`
-4. **Write your first scroll:** See [FIRST_SCROLL.md](FIRST_SCROLL.md) for guidance
+4. **Write your first scroll:** See [FIRST_SCROLL.md](first_scroll.md) for guidance
 
 **Not on the ranch?** You can still run SQ locally. The ranch mesh is for coordination among ranch instances.
 ```
